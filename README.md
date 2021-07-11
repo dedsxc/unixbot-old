@@ -2,13 +2,13 @@
 
 Simple twitter bot to tweet about NIX* configuration from reddit
 
-# Install
+## Install
 
 git clone https://github.com/dedsxc/bot_unixporn
 
 python3 -m pip install -r requirements.txt
 
-# Usage
+## Usage
 
 In config.ini:
 - Put your twitter API key
