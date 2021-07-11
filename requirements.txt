@@ -1,0 +1,6 @@
+pillow
+cython
+matplotlib
+tweepy
+requests
+praw
