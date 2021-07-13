@@ -4,7 +4,7 @@ Simple twitter bot to tweet about NIX* configuration from reddit
 
 ## Install
 
-git clone https://github.com/dedsxc/bot_unixporn
+git clone https://github.com/dedsxc/unixbot
 
 python3 -m pip install -r requirements.txt
 
