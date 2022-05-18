@@ -1,4 +1,4 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/bot_unixporn?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bot_unixporn?style=social)](https://twitter.com/intent/follow?screen_name=bot_unixporn) 
 
 # Twitter bot
 
