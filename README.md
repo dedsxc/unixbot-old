@@ -1,3 +1,5 @@
+![Twitter Follow](https://img.shields.io/twitter/follow/bot_unixporn?style=social)
+
 # Twitter bot
 
 Simple twitter bot to tweet about NIX* configuration from reddit
